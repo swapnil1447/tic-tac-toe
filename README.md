@@ -1,1 +1,1 @@
-in [Section `Features`](#feature)
+in [Deloyment link](#https://tic-tac-toe-rwud.vercel.app/)
